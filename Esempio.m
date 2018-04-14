@@ -8,4 +8,6 @@ C = A+B;
 %% Divisione di due numeri (Anna)
 % E =
 %% Sottrazione di due numeri (Mariella)
-% F =A-B
+F=A-B
+%%
+%ho scaricato e ricaricato... funziona?
